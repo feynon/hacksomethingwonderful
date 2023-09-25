@@ -1,5 +1,7 @@
 # hacksomethingwonderful
 
+A portal to timeless software hacking.
+
 - https://www.atlassian.com/engineering/rendering-like-butter-a-confluence-whiteboards-story
 - https://www.figma.com/blog/how-figma-draws-inspiration-from-the-gaming-world/
 - https://mofi.loud.red/blog/wasm-and-workers
