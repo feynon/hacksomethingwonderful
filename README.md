@@ -31,3 +31,4 @@ A portal to timeless software hacking.
 - https://laplab.me/posts/inside-new-query-engine-of-mongodb/
 - https://codesandbox.io/blog/how-we-clone-a-running-vm-in-2-seconds
 - https://speakinginswift.substack.com/p/interoperability-swifts-super-power
+- https://blog.cloudflare.com/workerd-open-source-workers-runtime/
