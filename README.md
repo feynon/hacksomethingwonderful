@@ -1,6 +1,6 @@
-# hacksomethingwonderful
+# Hack Something Wonderful
 
-A portal to timeless software hacking.
+A portal to timeless software hacking. Inspired from Matter's [Read Something Wonderful](https://readsomethingwonderful.com/).
 
 - https://www.atlassian.com/engineering/rendering-like-butter-a-confluence-whiteboards-story
 - https://www.figma.com/blog/how-figma-draws-inspiration-from-the-gaming-world/
