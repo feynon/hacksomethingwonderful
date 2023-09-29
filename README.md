@@ -34,3 +34,4 @@ A portal to timeless software hacking.
 - https://blog.cloudflare.com/workerd-open-source-workers-runtime/
 - https://cprimozic.net/blog/building-a-signal-analyzer-with-modern-web-tech/
 - https://www.notion.so/blog/data-model-behind-notion
+- https://duckdb.org/2021/10/29/duckdb-wasm.html
