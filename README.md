@@ -33,3 +33,4 @@ A portal to timeless software hacking.
 - https://speakinginswift.substack.com/p/interoperability-swifts-super-power
 - https://blog.cloudflare.com/workerd-open-source-workers-runtime/
 - https://cprimozic.net/blog/building-a-signal-analyzer-with-modern-web-tech/
+- https://www.notion.so/blog/data-model-behind-notion
