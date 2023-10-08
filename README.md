@@ -35,3 +35,6 @@ A portal to timeless software hacking. Inspired from Matter's [Read Something Wo
 - https://cprimozic.net/blog/building-a-signal-analyzer-with-modern-web-tech/
 - https://www.notion.so/blog/data-model-behind-notion
 - https://duckdb.org/2021/10/29/duckdb-wasm.html
+
+  ---
+  MIT 2023 © [Ankesh Bharti](https://ankeshbharti.com/).
